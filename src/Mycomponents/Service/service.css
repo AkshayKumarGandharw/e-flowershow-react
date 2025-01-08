@@ -1,5 +1,5 @@
 .Service{
-    background:url(../../Photos/service2-img.webp);
+    background:url(/public/Photos/service2-img.webp);
     background-size:cover;
     background-position:center;
     padding:30px 30px;
@@ -41,37 +41,37 @@
     padding:130px 0px 0px 0px;
 }
 .Service .main-div .first-div #product{
-    background:url(../../Photos/product3-img.webp);
+    background:url(/public/Photos/product3-img.webp);
     background-size:cover;
     background-position:center;
     color:black;
 }
 .Service .main-div .first-div #seller{
-    background:url(../../Photos/seller-img.png);
+    background:url(/public/Photos/seller-img.png);
     background-size:cover;
     background-color:white;
     color:black;
 }
 .Service .main-div .first-div #order{
-    background:url(../../Photos/order-img.jpg);
+    background:url(/public/Photos/order-img.jpg);
     background-size:cover;
     background-position:center;
     color:black;
 }
 .Service .main-div .first-div #product-category{
-    background:url(../../Photos/product-category-img.avif);
+    background:url(/public/Photos/product-category-img.avif);
     background-size:cover;
     background-position:center;
     color:black;
 }
 .Service .main-div .first-div #over-all-custumer{
-    background:url(../../Photos/customer-img.avif);
+    background:url(/public/Photos/customer-img.avif);
     background-size:cover;
     background-position:center;
     color:black;
 }
 .Service .main-div .first-div #privacy-claim{
-    background:url(../../Photos/privacy-claim-img.jpg);
+    background:url(/public/Photos/privacy-claim-img.jpg);
     background-size:cover;
     background-position:center;
     color:black;

@@ -1,5 +1,5 @@
 .Home{
-    background:url(../../Photos/home3-img.avif);
+    background:url(/public/Photos/home3-img.avif);
     background-size:cover;
     background-position:center;
     padding:65px 0px; 
