@@ -1,0 +1,87 @@
+.Service{
+    background:url(../../Photos/service2-img.webp);
+    background-size:cover;
+    background-position:center;
+    padding:30px 30px;
+    color:white;
+
+}
+
+.Service .main-div{
+    display:flex;
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    height:420px;
+    
+}
+.Service .main-div .first-div{
+    width:60%;
+    height:410px;
+    margin-right:20px;
+}
+.Service .main-div .second-div{
+    width:40%;
+    height:410px;
+    border:2px solid white;
+}
+.Service .main-div .first-div .Module{
+    width:33%;
+    height:50%;
+    background-color:white;
+    border:2px solid black;
+    color:white;
+    float:right;
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+   
+}
+.Service .main-div .first-div .Module h2{
+    justify-content:center;
+    align-items:center;
+    padding:130px 0px 0px 0px;
+}
+.Service .main-div .first-div #product{
+    background:url(../../Photos/product3-img.webp);
+    background-size:cover;
+    background-position:center;
+    color:black;
+}
+.Service .main-div .first-div #seller{
+    background:url(../../Photos/seller-img.png);
+    background-size:cover;
+    background-color:white;
+    color:black;
+}
+.Service .main-div .first-div #order{
+    background:url(../../Photos/order-img.jpg);
+    background-size:cover;
+    background-position:center;
+    color:black;
+}
+.Service .main-div .first-div #product-category{
+    background:url(../../Photos/product-category-img.avif);
+    background-size:cover;
+    background-position:center;
+    color:black;
+}
+.Service .main-div .first-div #over-all-custumer{
+    background:url(../../Photos/customer-img.avif);
+    background-size:cover;
+    background-position:center;
+    color:black;
+}
+.Service .main-div .first-div #privacy-claim{
+    background:url(../../Photos/privacy-claim-img.jpg);
+    background-size:cover;
+    background-position:center;
+    color:black;
+}
+
+.Service .main-div .second-div .form-div{
+    padding:0px 20px;
+}
+.Service .main-div .second-div .form-div h4{
+    text-align:center;
+    padding:3px 0px;
+    font-weight:bold;
+}

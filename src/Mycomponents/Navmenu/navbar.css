@@ -1,0 +1,28 @@
+.Navbar{
+    background-color:cyan;
+    color:black;
+    height:50px;
+    line-height:50px;
+    padding:0px 100px;
+}
+.Navbar ul{
+    display:flex;
+}
+
+.Navbar ul li{
+    
+    list-style:none;
+
+}
+
+.Navbar ul li a{
+    text-decoration:none;
+    color:black;
+    padding:0px 25px;
+}
+
+.Navbar ul li a:hover{
+    background-color:yellow;
+    color:black;
+    display:block; 
+}

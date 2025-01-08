@@ -1,0 +1,31 @@
+.Contact{
+    background:url(../../Photos/contact4-img.jpg);
+    background-size:cover;
+    background-position:center;
+    padding:100px auto;
+    height:480px;
+    padding:40px;
+}
+.Contact .contact-div{
+
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    color:white;
+    width:90%;
+    height:280px;
+    margin:0px auto;
+    padding:20px;
+    
+}
+.Contact .contact-div .Module{
+    width:50%;
+    height:250px;
+    border:2px solid white;
+    float:right;
+    padding:20px;
+    
+}
+.Contact .contact-div #google-map{
+    background:url(../../Photos/google-map.PNG);
+    background-size:cover;
+    background-position:center;
+}

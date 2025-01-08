@@ -1,0 +1,77 @@
+.Gallery{
+    height:480px;
+
+}
+.Gallery h2{
+    background-color:#e5e5e5;
+    margin-top:5px;
+    width:1140px;
+    margin:0px auto;
+    border:2px solid black;
+}
+.Gallery .mygallery{
+    width:1140px;
+    height:400px;
+    margin:0px auto;
+    border:2px solid black;
+    background-color:#e2e2e2;
+}
+
+.Gallery .mygallery .gallery-list{
+    width:1110px;
+    height:auto;
+    padding:20px;
+    
+}
+.Gallery .mygallery .gallery-list .gallery-items{
+width:32%;
+height:180px;
+background-color:white;
+border:2px solid white;
+color:white;
+float:right;
+font-size:25px;
+font-weight:bold;
+text-align:center;
+margin-right:4px;
+margin-bottom:4px;
+padding:15px;
+}
+
+.Gallery .mygallery .gallery-list #flower1{
+   
+    background:url(../../Photos/lilit-white-flower.webp);
+    background-size:cover;
+    background-position:center;
+    
+
+}
+.Gallery .mygallery .gallery-list #flower2{
+   
+    background:url(../../Photos/purpul-flower.jpg);
+    background-size:cover;
+     background-position:center;
+}
+.Gallery .mygallery .gallery-list #flower3{
+   
+    background:url(../../Photos/lotas-single.jpg);
+    background-size:cover;
+    background-position:center;
+}.Gallery .mygallery .gallery-list #flower4{
+   
+    background:url(../../Photos/blue-rose-1.jpg);
+    background-size:cover;
+    background-position:center;
+}
+.Gallery .mygallery .gallery-list #flower5{
+   
+    background:url(../../Photos/gudhal-flower.jpg);
+    background-size:cover;
+    background-position:center;
+}
+.Gallery .mygallery .gallery-list #flower6{
+   
+    background:url(../../Photos/gudha-yellow.jpg);
+    background-size:cover;
+    background-position:center;
+}
